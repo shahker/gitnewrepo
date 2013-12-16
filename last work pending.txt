@@ -1,0 +1,7 @@
+githooks
+
+pre and post commit
+
+curl comamnd:
+
+
